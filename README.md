@@ -31,7 +31,7 @@ Smooth Animations - Scroll-triggered fade-in animations and hover effects
 <li>Animated statistics cards</li>
 <li>Smooth reveal animations</li>
 
-<h3>Portfolio Link </h3>
-  <li>📄 <a href="https://aviek-portfolio.netlify.app/">View Resume</a></li>
+
+ <h3> <li>📄 <a href="https://aviek-portfolio.netlify.app/">View Portfolio</a></li></h3>
 
 
